@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there
+
+My name is Emily, a senior at Brown University studying Applied Mathematics & Computer Science. I'm currently a research assistant in the [Database and Systems Group](https://brown-db.github.io/) at Brown University. Using tools such as Langgraph, vLLM, and DeepEval, I'm building and evaluating an agentic-AI summarization tool for electronic health records. 
+
+I'm particularly passionate about low-level systems programming and cybersecurity. To explore this, I'm currently working on picoCTF challenges and contributing to low-level projects, such as an implementation of blockchain cryptocurrency. I'm excited to learn more about how security and AI can overlap, and aim to pursue this field in my career. 
+
+Reach me at emily_olson@brown.edu!
 
 <!--
 **emily-olson/emily-olson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
