@@ -1,4 +1,4 @@
-## Hi there
+## Hi there!
 
 My name is Emily, a senior at Brown University studying Applied Mathematics & Computer Science. I'm currently a research assistant in the [Database and Systems Group](https://brown-db.github.io/) at Brown University. Using tools such as Langgraph, vLLM, and DeepEval, I'm building and evaluating an agentic-AI summarization tool for electronic health records. 
 
