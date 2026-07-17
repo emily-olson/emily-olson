@@ -1,6 +1,6 @@
 ## Hi there!
 
-My name is Emily, and I just graduated from Brown University with a degree in Applied Mathematics & Computer Science. At Brown, I was a research assistant in the [Database and Systems Group](https://brown-db.github.io/). Using tools such as Langgraph, vLLM, and DeepEval, I'm building and evaluating an agentic-AI summarization tool for electronic health records. 
+My name is Emily, and I just graduated from Brown University with a degree in Applied Mathematics & Computer Science. At Brown, I was a research assistant in the [Database and Systems Group](https://brown-db.github.io/). Using tools such as Langgraph, vLLM, and DeepEval, I built and evaluated an agentic-AI summarization tool for electronic health records. 
 
 Reach me at emily_olson@alumni.brown.edu!
 
